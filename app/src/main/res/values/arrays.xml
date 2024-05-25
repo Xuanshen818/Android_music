@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="raw_resources">
+        <item>@raw/my_music1</item>
+        <item>@raw/my_music2</item>
+        <item>@raw/my_music3</item>
+        <!-- 将你的其他音乐文件添加在这里 -->
+    </array>
+</resources>
